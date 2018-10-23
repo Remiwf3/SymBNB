@@ -1,2 +1,2 @@
 # SymBNB
-Exercice to improve myself to Symfony 4
+Imitation of Air BNB made with Symfony 4
